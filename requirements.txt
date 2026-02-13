@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+kafka-python
+langchain
+langgraph
+chromadb
+sentence-transformers
+rank-bm25
+pypdf
+pdf2image
+pytesseract
+ollama
+numpy
